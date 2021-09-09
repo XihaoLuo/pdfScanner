@@ -2,6 +2,7 @@
 Xihao Luo
 CS 72 - Computer Vision Final Project
 """
+# Importing packages
 import cv2
 import numpy as np
 import sys
